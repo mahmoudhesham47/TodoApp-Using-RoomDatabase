@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Inventory</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_new_todo">Add New Todo</string>
+    <string name="add_fragment_title">ADD TODO</string>
+    <string name="todo_title">Todo Title</string>
+    <string name="deleteTodo">deleteTodo</string>
+    <string name="to_do">To-do</string>
+    <string name="to_dos">To-dos</string>
+    <string name="save">save</string>
+    <string name="deleteall">deleteAll</string>
+</resources>
